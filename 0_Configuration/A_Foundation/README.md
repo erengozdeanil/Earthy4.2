@@ -4,4 +4,5 @@
 ##### Secondly an examplary questionnaire data is formed to be located on the nodes depending on the rules 
 ##### output ---> nodes_dictionary: { 0:{"name":0, "district":7, "type":1, "tag":"Emilie", "layer":None, "units":2, "floor":None}, 1:{...},...}
 
-![211026_Base Site Plan (L2)  Converted](https://user-images.githubusercontent.com/92442677/139909528-314434b6-3e06-4669-bb32-a4ca07bcfb38.png)
+![Base_Grid-09](https://user-images.githubusercontent.com/92442677/139909711-817e30d7-a673-4c35-b8cf-56337b27c215.png)
+
